@@ -1,2 +1,2 @@
 # python0624
-Test GIT
+#Just Test How To Use GIT!
